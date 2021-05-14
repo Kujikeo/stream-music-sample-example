@@ -1,0 +1,9 @@
+node_modules/**/*
+/node_modules
+.expo/*
+dist
+debug.log
+yarn-error.log
+
+# macOS
+.DS_Store
